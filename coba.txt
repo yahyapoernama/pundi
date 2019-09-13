@@ -1,3 +1,5 @@
 <html>
-  <head></head>
+  <head>
+    <title>praktikum</title>
+  </head>
 </html>
